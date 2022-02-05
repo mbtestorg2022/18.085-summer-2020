@@ -4,35 +4,381 @@ title: Calendar
 uid: 8771cae4-88d6-a836-1f63-e53bd3ac05de
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Review of Linear Algebra | &nbsp; |
-| 2 | Review of Linear Algebra (cont.) | &nbsp; |
-| 3 | Review of Linear Algebra (cont.) | &nbsp; |
-| 4 | Differences, Derivatives, and Boundary Conditions | &nbsp; |
-| 5 | Inverses and Delta Functions | &nbsp; |
-| 6 | Eigenvalues and Eigenvectors | Problem set 1 due |
-| 7 | Positive Definite Matrices and Least Squares | &nbsp; |
-| 8 | Numerical Linear Algebra: LU, QR, SVD | &nbsp; |
-| 9 | Equilibrium and the Stiffness Matrix | Problem set 2 due |
-| 10 | Oscillation by Newton’s Law I | &nbsp; |
-| 11 | Oscillation by Newton’s Law II | &nbsp; |
-| 12 | Graph Models and Kirchhoff’s Laws | Problem set 3 due |
-| 13 | Damped Harmonic Oscillators and the Laplace Transform I | &nbsp; |
-| 14 | Damped Harmonic Oscillators and the Laplace Transform II | &nbsp; |
-| &nbsp; | \[no lecture\] | Midterm exam |
-| 15 | Review of Vector Calculus I | &nbsp; |
-| 16 | Review of Vector Calculus II; Fourier Series | &nbsp; |
-| 17 | Fourier Series (cont.) | Problem set 4 due |
-| 18 | Polar Coordinates and Laplace’s Equation | &nbsp; |
-| 19 | Laplace’s Equation and Separation of Variables | &nbsp; |
-| 20 | Laplace’s Equation and Finite Difference | Problem set 5 due |
-| 21 | The Finite Element Method I | &nbsp; |
-| 22 | The Finite Element Method II | &nbsp; |
-| 23 | The Discrete Fourier Transform and the FFT I | Problem set 6 due |
-| 24 | The Discrete Fourier Transform and the FFT II | &nbsp; |
-| 25 | Convolution and Signal Processing | &nbsp; |
-| 26 | Fourier Integrals | Problem set 7 due |
-| 27 | Course Review | Take-home final exam released |
-| 28 | Guest Lectures | Take-home final exam due |
-| 29 | Special Topic: Deep Learning/Double Descent |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Linear Algebra
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Linear Algebra (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Linear Algebra (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Differences, Derivatives, and Boundary Conditions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Inverses and Delta Functions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Eigenvalues and Eigenvectors
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Positive Definite Matrices and Least Squares
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Numerical Linear Algebra: LU, QR, SVD
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Equilibrium and the Stiffness Matrix
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Oscillation by Newton’s Law I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Oscillation by Newton’s Law II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Graph Models and Kirchhoff’s Laws
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Damped Harmonic Oscillators and the Laplace Transform I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Damped Harmonic Oscillators and the Laplace Transform II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+\[no lecture\]
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Vector Calculus I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Vector Calculus II; Fourier Series
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Fourier Series (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Polar Coordinates and Laplace’s Equation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Laplace’s Equation and Separation of Variables
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Laplace’s Equation and Finite Difference
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+The Finite Element Method I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+The Finite Element Method II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+The Discrete Fourier Transform and the FFT I
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+The Discrete Fourier Transform and the FFT II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Convolution and Signal Processing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Fourier Integrals
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Course Review
+{{< tdclose >}}
+{{< tdopen >}}
+Take-home final exam released
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lectures
+{{< tdclose >}}
+{{< tdopen >}}
+Take-home final exam due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Special Topic: Deep Learning/Double Descent
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
