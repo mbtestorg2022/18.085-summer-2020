@@ -16,7 +16,7 @@ Below, Dr. Chengzhao “Richard” Zhang describes various aspects of how he tau
 
 My philosophy of the subject is one of “practical rigor.” I want students to build first-principled thinking of mathematics and computation, while never losing sight of the applications and connections to their respective engineering disciplines. Students should know why the center-difference method for numerical differentiation is second-order. At the same time, they should be aware of how it’s applied in modern-day research in atmospheric science.
 
-This philosophy follows very closely that of Professor Gil Strang and President Rafael Reif in his recent founding of [MIT’s Schwarzman College of Computing](https://computing.mit.edu/). My respected mentor Prof. Strang is one of the frontrunners of modern computational science and engineering research and education. He’s a strong advocate of developing his teaching of rigorous mathematics around practical subjects, as is evident in his course [_18.065: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning_](/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/). At the same time, President Reif, in forming the Schwarzman College, emphasizes the importance of training “bilingual” students, who are well-versed both in their own studies and in AI and computation.
+This philosophy follows very closely that of Professor Gil Strang and President Rafael Reif in his recent founding of [MIT’s Schwarzman College of Computing](https://computing.mit.edu/). My respected mentor Prof. Strang is one of the frontrunners of modern computational science and engineering research and education. He’s a strong advocate of developing his teaching of rigorous mathematics around practical subjects, as is evident in his course [_18.065: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning_](/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018). At the same time, President Reif, in forming the Schwarzman College, emphasizes the importance of training “bilingual” students, who are well-versed both in their own studies and in AI and computation.
 
 {{< quote "Connecting class materials with real-world applications is critical to the success of a student's experience in this course." "— Chengzhao “Richard” Zhang" >}}
 
@@ -26,7 +26,7 @@ This philosophy follows very closely that of Professor Gil Strang and President 
 
 **OCW:** You mentioned Professor Gil Strang as one of your teaching mentors. What have you learned from him that you’ll take with you into future teaching positions?
 
-**Richard Zhang:** Professor Strang is a model of dedication, passion, and lifelong commitment towards teaching mathematics and connecting math with various scientific and engineering disciplines. Even at the age of 86, he still drove forward to write a book and create the course [18.065](/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) that connects machine learning with linear algebra. All of these qualities of Professor Strang's are what I aspire to be as an instructor.
+**Richard Zhang:** Professor Strang is a model of dedication, passion, and lifelong commitment towards teaching mathematics and connecting math with various scientific and engineering disciplines. Even at the age of 86, he still drove forward to write a book and create the course [18.065](/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018) that connects machine learning with linear algebra. All of these qualities of Professor Strang's are what I aspire to be as an instructor.
 
 Most importantly though, Professor Strang truly cares about students. This is a rare quality of a mentor and instructor, and something that we deeply need. Society overemphasizes brilliance. But everyone is brilliant in a place like MIT; brilliance is a cheap commodity that’s no longer the sole judging criterion for a mentor. To quote Prof. Allan Adams from MIT Physics, “Find the mentors that are good to you, not just brilliant. Because brilliance is cheap, and good is special.”
 
@@ -63,8 +63,8 @@ Curriculum Information
 
 ### Prerequisites
 
-*   Any of MIT’s Calculus II courses: [_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010/), [_18.022 Calculus of Several Variables_](/courses/18-022-calculus-of-several-variables-fall-2010/), or an equivalent course
-*   Either [_18.03 Differential Equations_](/courses/18-03-differential-equations-spring-2010/) or _[18.034 Honors Differential Equations](/courses/18-034-honors-differential-equations-spring-2009/)_
+*   Any of MIT’s Calculus II courses: [_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010), [_18.022 Calculus of Several Variables_](/courses/18-022-calculus-of-several-variables-fall-2010), or an equivalent course
+*   Either [_18.03 Differential Equations_](/courses/18-03-differential-equations-spring-2010) or _[18.034 Honors Differential Equations](/courses/18-034-honors-differential-equations-spring-2009)_
 
 ### Requirements Satisfied
 

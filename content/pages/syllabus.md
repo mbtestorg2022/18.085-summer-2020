@@ -12,8 +12,8 @@ Lectures: 3 sessions / week, 1 hour / session
 Prerequisites
 -------------
 
-*   Any of MIT’s Calculus II courses: [_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010/), [_18.022 Calculus of Several Variables_](/courses/18-022-calculus-of-several-variables-fall-2010/), or an equivalent course
-*   Either [_18.03 Differential Equations_](/courses/18-03-differential-equations-spring-2010/) or _[18.034 Honors Differential Equations](/courses/18-034-honors-differential-equations-spring-2009/)_
+*   Any of MIT’s Calculus II courses: [_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010), [_18.022 Calculus of Several Variables_](/courses/18-022-calculus-of-several-variables-fall-2010), or an equivalent course
+*   Either [_18.03 Differential Equations_](/courses/18-03-differential-equations-spring-2010) or _[18.034 Honors Differential Equations](/courses/18-034-honors-differential-equations-spring-2009)_
 
 Course Description
 ------------------
